@@ -1,0 +1,35 @@
+header{
+    padding-bottom: 5%;
+}
+
+.projeto_1{
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 5%;
+    text-align:justify;
+}
+
+.projeto_1_titulo{
+    font-size: 2vw;
+    margin-bottom: 2%;
+}
+
+.projeto_1_titulo_paragrafo{
+    font-size: 1.5vw;
+    margin-bottom: 1%;
+}
+
+.projeto_1_titulo_paragrafo_texto{
+    font-size: 1.2vw;
+}
+
+.projeto_1_titulo_paragrafo_texto_final{
+    font-size: 1.2vw;
+    margin-top: 1%;
+    font-weight: 700;
+
+}
+
+.final{
+    margin-bottom: 5%;
+}

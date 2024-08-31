@@ -10,21 +10,21 @@ header{
 }
 
 .projeto_1_titulo{
-    font-size: 2vw;
+    font-size: 35px;
     margin-bottom: 2%;
 }
 
 .projeto_1_titulo_paragrafo{
-    font-size: 1.5vw;
+    font-size: 25px;
     margin-bottom: 1%;
 }
 
 .projeto_1_titulo_paragrafo_texto{
-    font-size: 1.2vw;
+    font-size: 20px;
 }
 
 .projeto_1_titulo_paragrafo_texto_final{
-    font-size: 1.2vw;
+    font-size: 18px;
     margin-top: 1%;
     font-weight: 700;
 

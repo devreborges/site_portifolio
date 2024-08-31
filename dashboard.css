@@ -2,6 +2,10 @@
     --degrade_sobre_mim: linear-gradient(to left, #ffffff, #e6e4ebf3);
 }
 
+header{
+    padding-bottom: 30px;
+}
+
 .fundo_body_dashboard{
     background: var(--degrade_sobre_mim);
 
